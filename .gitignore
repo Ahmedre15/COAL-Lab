@@ -1,7 +1,11 @@
-# Ignore Visual Studio cache
+# Ignore Visual Studio junk
 .vs/
-*.obj
-*.exe
-*.pdb
+*.sln
+*.vcxproj
+*.vcxproj.*
+*.filters
+*.user
 Debug/
 Release/
+*.exe
+*.obj
