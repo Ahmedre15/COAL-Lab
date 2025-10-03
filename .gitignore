@@ -1,0 +1,7 @@
+# Ignore Visual Studio cache
+.vs/
+*.obj
+*.exe
+*.pdb
+Debug/
+Release/
